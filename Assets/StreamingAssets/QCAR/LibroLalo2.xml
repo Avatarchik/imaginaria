@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="01-losOlvidados" size="300.000000 339.466675" />
+    <ImageTarget name="02-DianaSalazar" size="300.000000 343.351074" />
+    <ImageTarget name="03-Eclipse" size="300.000000 339.466675" />
+    <ImageTarget name="04-Carretera" size="300.000000 339.466675" />
+    <ImageTarget name="05-tlatelolco-Izq" size="300.000000 343.351074" />
+    <ImageTarget name="06-tlatelolcoDer" size="300.000000 339.466675" />
+    <ImageTarget name="07-MelanieSmith" size="300.000000 343.351074" />
+    <ImageTarget name="08-AFireInMyBelly" size="300.000000 339.466675" />
+    <ImageTarget name="09-Chol-01" size="300.000000 339.466675" />
+  </Tracking>
+</QCARConfig>
